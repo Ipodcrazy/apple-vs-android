@@ -1,0 +1,78 @@
+html {
+  background-color: rgb(201, 191, 182);
+}
+
+body {
+  background-color: white;
+  width: 600px;
+  padding-top: 50px;
+  padding-right: 100px;
+  padding-left: 100px;
+  padding-bottom: 200px;
+  font-family: 'Open Sans', sans-serif;
+  margin: auto;
+}
+
+.thing{
+  margin-top: 40px;
+}
+
+
+.explore{
+  width: 600%;
+  border-top: 100px;
+  border-left: 600px;
+  border-right: 1000px;
+  border-bottom: 1000px;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  margin: 100px;
+  color: black;
+  text-decoration: none;
+  background-color: #c9793b;
+  border-radius: 5px;
+}
+
+.an{
+  font-size: 20px;
+  width: 150px;
+  border-top: 100px;
+  border-left: 90px;
+  border-right: 90px;
+  border-bottom: 1px;
+  padding-top: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 5px;
+  margin: 0px;
+  color: black;
+  text-decoration: none;
+  background-color: #a4c93b;
+  border-radius: 3px;
+  box-shadow: 2px 2px 0px 0px grey;
+}
+
+.ip{
+  font-size: 20px;
+  width: 150px;
+  border-top: 100px;
+  border-left: 90px;
+  border-right: 90px;
+  border-bottom: 1px;
+  padding-top: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 5px;
+  margin: 0px;
+  color: black;
+  text-decoration: none;
+  background-color: #b6bcca;
+  border-radius: 3px;
+  box-shadow: 2px 2px 0px 0px grey;
+}
+.paraone{
+  width: 1000%;
+  align-content: left;
+}
